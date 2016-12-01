@@ -1,6 +1,6 @@
-# ndeck
+# nodeck
 
-ndeck is based on [koajs](https://github.com/koajs/koa) to provide better Web MVC development experience.
+nodeck is based on [koajs](https://github.com/koajs/koa) to provide better Web MVC development experience.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ ndeck is based on [koajs](https://github.com/koajs/koa) to provide better Web MV
 
 ### Install
 ```sh
-$ npm install ndeck-cli -g
+$ npm install nodeck-cli -g
 $ ndeck init myapp && cd myapp
 $ npm install
 $ npm run dev
@@ -20,10 +20,10 @@ $ npm run dev
 
 ### Usage
 ```js
-const Ndeck = require('ndeck');
+const Nodeck = require('nodeck');
 const PORT = process.env.PORT || 4567;
 
-const app = new Ndeck();
+const app = new Nodeck();
 
 app.start(PORT).then(() => {
     console.log(`Server start and listen at ${PORT}`);
