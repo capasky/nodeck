@@ -1,4 +1,5 @@
 # nodeck
+![](nodeck.png)
 
 nodeck is based on [koajs](https://github.com/koajs/koa) to provide better Web MVC development experience.
 
