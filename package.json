@@ -13,6 +13,10 @@
     "nodejs"
   ],
   "author": "capasky <capasky@live.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capasky/nodeck.git"
+  },
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.1",
@@ -21,6 +25,7 @@
     "eventemitter3": "^1.2.0",
     "formidable": "^1.0.17",
     "fs-extra": "^0.30.0",
+    "koa": "^2.0.0",
     "koa-better-body": "^3.0.0",
     "koa-static": "^2.0.0",
     "koa-views": "^5.0.2",
@@ -30,7 +35,6 @@
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
-    "koa": "^2.0.0-alpha.4",
     "mocha": "^3.0.2"
   }
 }
