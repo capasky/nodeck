@@ -2,7 +2,7 @@
   "name": "nodeck",
   "version": "0.0.1",
   "description": "nodejs web framework based on koa.",
-  "main": "cli.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
