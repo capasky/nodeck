@@ -1,6 +1,6 @@
 {
   "name": "nodeck",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs web framework based on koa.",
   "main": "lib/index.js",
   "scripts": {
