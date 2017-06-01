@@ -1,4 +1,4 @@
-# nodeck
+# nodeck [![npm version](https://img.shields.io/npm/v/nodeck.svg?style=flat-square)](https://www.npmjs.com/package/nodeck)
 ![](nodeck.png)
 
 nodeck is based on [koajs](https://github.com/koajs/koa) to provide better Web MVC development experience.
